@@ -1,4 +1,4 @@
-package org.anil.scala.basic.patterns
+package org.anil.scala.patterns
 
 import java.io.{File, PrintWriter}
 
